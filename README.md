@@ -42,7 +42,7 @@ Aplikasi Budget adalah aplikasi manajemen keuangan berbasis web yang dibuat deng
    Akses aplikasi di http://localhost:8000
 
 ## Credit
-Aplikasi ini dibuat oleh **Wawang Kurniawan**.
+Aplikasi ini dibuat oleh [**Wawang Kurniawan**](https://github.com/k21wangz).
 
 ---
 
